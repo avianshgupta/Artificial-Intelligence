@@ -13,7 +13,7 @@ from statistics import mean
 
 import numpy as np
 
-
+# Source: https://github.com/aimacode/aima-python
 # ______________________________________________________________________________
 # Functions on Sequences and Iterables
 
